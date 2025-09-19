@@ -184,7 +184,7 @@ if (!empty($filter_user)) {
 
                 <!-- Header -->
                 <div class="text-center mb-5">
-                    <h1 class="display-4">Guestbook</h1>
+                    <h1 class="display-4">Welcome to gisbok</h1>
                     <p class="lead">Leave a message for people around the wooooooooooooooooorld</p>
                 </div>
 
@@ -206,7 +206,7 @@ if (!empty($filter_user)) {
                 <!-- POST Form for Adding Entries -->
                 <div class="card mb-4">
                     <div class="card-header">
-                        <h5 class="mb-0">Sign Our Guestbook</h5>
+                        <h5 class="mb-0">Sign Our gisbok</h5>
                     </div>
                     <div class="card-body">
                         <form method="POST" action="" class="needs-validation" novalidate>
